@@ -1,4 +1,4 @@
-# SVG World Map with labels
+# SVG World Map with (Swedish) labels
 
 This package includes interactive SVG map of world with the labels of 193 UN member states.
 
